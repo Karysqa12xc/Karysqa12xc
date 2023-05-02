@@ -10,6 +10,6 @@ Tên tôi là Nam Hoàng. Dưới đây là một số project nối bật của
 
 <a href="https://github.com/Karysqa12xc/DravenAtHome">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karysqa12xc&repo=DravenAtHome)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karysqa12xc&repo=DravenAtHome)](https://github.com/Karysqa12xc/DravenAtHome)
 </a>    
 
