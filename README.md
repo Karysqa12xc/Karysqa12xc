@@ -12,6 +12,10 @@ Tên tôi là Nam Hoàng. Dưới đây là một số project nối bật của
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Karysqa12xc&repo=DravenAtHome" />
   </a> 
+  <a href="https://github.com/Karysqa12xc/NCKH_Game_Tank">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Karysqa12xc&repo=NCKH_Game_Tank" />
+  </a> 
 </div>
    
 
